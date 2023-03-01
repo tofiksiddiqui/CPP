@@ -42,3 +42,8 @@ int main(){
     
     return 0;
 }
+
+/**
+ * !Why And When To Use "Inheritance" and "Polymorphism"?
+ * @param It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
+*/
